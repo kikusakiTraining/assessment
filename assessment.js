@@ -1,4 +1,5 @@
 'use strict'; //厳格モード呼び出し
+//後で消す
 
 const userNameInput =document.getElementById('user-name');
 const assessmentButton =document.getElementById('assessment');
